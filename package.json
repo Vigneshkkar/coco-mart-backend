@@ -2,7 +2,6 @@
   "name": "coco-mart-backend",
   "version": "0.0.0",
   "private": true,
-  "main": "./bin/www",
   "scripts": {
     "start": "DEBUG=coco-mart-backend:* PORT=3001 nodemon ./bin/www"
   },
