@@ -1,0 +1,11 @@
+@base=http://localhost:3001/users
+
+GET {{base}} HTTP/1.1
+
+###
+
+GET {{base}}/getNames HTTP/1.1
+
+###
+
+GET {{base}}/getGraphData HTTP/1.1
