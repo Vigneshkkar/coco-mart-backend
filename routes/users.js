@@ -1,6 +1,6 @@
 var express = require('express');
 var router = express.Router();
-prod = require('../models/products');
+prod = require('../models/Products');
 feeds = require('../models/Feeds');
 
 /* GET users listing. */
